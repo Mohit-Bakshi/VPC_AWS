@@ -1,1 +1,2 @@
-# VPC_AWS
+# VPC
+VPC with public and Private Subnets
